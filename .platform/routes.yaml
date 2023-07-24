@@ -5,5 +5,5 @@
   upstream: "ll_project:http"
 
 "https://www.{default}/":
-  type: redicrect
+  type: redirect
   to: "https://{default}/"
