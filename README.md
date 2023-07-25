@@ -58,3 +58,13 @@ x
 ## Acknowledgments
 
 * https://ehmatthes.github.io/
+
+## Images
+
+<img width="1440" alt="image" src="https://github.com/epro23/ll_project/assets/140527258/75e2ef41-fc85-4829-9087-054c851e95d6">
+
+<img width="1436" alt="image" src="https://github.com/epro23/ll_project/assets/140527258/3cb0c414-86c1-4267-b292-71fa9f801cee">
+
+<img width="1438" alt="image" src="https://github.com/epro23/ll_project/assets/140527258/00a5964a-2c61-4eff-a96e-a687e7a9e79f">
+
+
